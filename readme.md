@@ -1,5 +1,9 @@
 <h1>Desafio de projeto do Felipão: Mario Kart.JS</h1>
 
+<p>Este projeto foi desenvolvido como parte do Bootcamp meutudo - Mobile Developer da DIO.</p>
+
+<p>Nele foi possível explorar conceitos básicos de Node.js e de Javascript, como por exemplo, funções assíncronas, encapsulamento de código, loops de repetição, estruturas condicionais, etc.</p>
+
   <table>
         <tr>
             <td>
